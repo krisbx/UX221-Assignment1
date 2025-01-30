@@ -2,62 +2,122 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/traditional-goth/
+            http://localhost:8000//traditional-goth/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/goth-fashion/
+            http://localhost:8000//romantic-goth/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/romantic-goth/
+            http://localhost:8000//thrifting-and-upcycling/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/
+            http://localhost:8000//diy-accessories/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/category/uncategorized/
+            http://localhost:8000//cybergoth/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/category/gothic-fashion/
+            http://localhost:8000//goth-fashion/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/tag/romantic-goth/
+            http://localhost:8000//
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/tag/goth-subcultures/
+            http://localhost:8000//category/uncategorized/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/tag/traditional-goth/
+            http://localhost:8000//category/gothic-fashion/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/tag/fashion/
+            http://localhost:8000//category/diy-clothing/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/tag/goth/
+            http://localhost:8000//tag/romantic-goth/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/author/krisbx/
+            http://localhost:8000//tag/goth-subcultures/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000//tag/traditional-goth/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000//tag/fashion/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000//tag/goth/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000//tag/diy/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000//tag/thrifting/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000//tag/jewelry/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000//tag/shoes/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000//tag/accessories/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000//tag/cyber/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000//tag/neon/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000//tag/futuristic/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000//author/krisbx/
         </loc>
     </url>
 </urlset>
